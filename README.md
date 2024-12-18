@@ -1,4 +1,6 @@
-# Netflix Dataset EDA Assignment
+# CS439 Assignment 3
+## Muhammad Sameer Shahzad
+## 2021451
 
 ## Objective
 Perform an advanced exploratory data analysis (EDA) on the Netflix TV shows and movies dataset using Apache Spark and Docker.
