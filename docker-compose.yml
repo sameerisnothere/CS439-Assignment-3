@@ -1,0 +1,8 @@
+version: '3.9'
+services:
+  spark:
+    build: .
+    volumes:
+      - ./data:/data
+      - ./scripts:/scripts
+    container_name: spark-eda
